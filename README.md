@@ -2,7 +2,7 @@
 
 ##### A little program that takes a year and determines if it is a leap year.
 
-#### By Kelly Becker
+#### By Epicodus Lessons
 
 ## Description
 
@@ -19,7 +19,7 @@ Testing:  Mocha and Chai
 
 ### Legal
 
-Copyright (c) 2015 **Epidcodus**
+Copyright (c) 2015 **Epicodus**
 
 This software is licensed under the MIT license.
 
